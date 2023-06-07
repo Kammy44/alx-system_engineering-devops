@@ -1,1 +1,1 @@
-My second readme
+Script for printing working directory
