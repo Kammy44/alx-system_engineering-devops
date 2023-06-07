@@ -1,1 +1,2 @@
-Script for printing working directory
+pwd:Script for printing working directory
+ls:script for listing files and directory
