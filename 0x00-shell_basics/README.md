@@ -5,3 +5,4 @@ ls -l:script for displaying current directory contents in a long format
 ls -la:script that display current directory contents, including hidden files (starting with .). Using the long format
 ls -lna:script for displaying current directory contents,including hidden files (starting with .)
 mkdir /tmp/my_first_directory:script that creates a directory named my_first_directory in the /tmp/ directory
+mv /tmp/betty /tmp/my_first_directory/betty:script to Move the file betty from /tmp/ to /tmp/my_first_directory
