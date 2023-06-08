@@ -6,3 +6,4 @@ ls -la:script that display current directory contents, including hidden files (s
 ls -lna:script for displaying current directory contents,including hidden files (starting with .)
 mkdir /tmp/my_first_directory:script that creates a directory named my_first_directory in the /tmp/ directory
 mv /tmp/betty /tmp/my_first_directory/betty:script to Move the file betty from /tmp/ to /tmp/my_first_directory
+rm /tmp/my_first_directory/ betty:script to delete the file betty
